@@ -1,6 +1,6 @@
 # My Portfolio Flutter Project
 
-This Flutter project is a personal portfolio website that showcases information about you, your work, skills, experiences, and a portfolio section. It is organized into different sections for clarity and ease of navigation.
+This Flutter project is a personal portfolio that showcases information about you, your work, skills, experiences, and a portfolio section. It is organized into different sections for clarity and ease of navigation.
 
 ## Project Structure
 
